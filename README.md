@@ -1,4 +1,4 @@
-# awesome-GNN4TDL
+# Awesome Graph Neural Networks for Tabular Data Learning (GNN4TDL)
 
 
 
