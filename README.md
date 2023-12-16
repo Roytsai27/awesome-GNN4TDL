@@ -29,7 +29,7 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
-|2023|EGG-GAE: Scalable Graph Neural Networks for Tabular Data Imputation|ICML 2023|[Link](https://arxiv.org/pdf/2210.10446.pdf)|[link](https://github.com/levtelyatnikov/EGG_GAE)|
+|2023|EGG-GAE: Scalable Graph Neural Networks for Tabular Data Imputation|ICML 2023|[Link](https://arxiv.org/pdf/2210.10446.pdf)|[Link](https://github.com/levtelyatnikov/EGG_GAE)|
 |2023|Graph Neural Networks for Missing Value Classification in a Task-driven Metric Space|TKDE 2023|[Link](https://doi.org/10.1109/TKDE.2022.3198689)||
 |2023|Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal|AAAI 2023|[Link](https://arxiv.org/pdf/2212.12190.pdf)||
 |2023|Homophily-Enhanced Self-Supervision for Graph Structure Learning: Insights and Directions|TNNLS 2023|[Link](https://doi.org/10.1109/TNNLS.2023.3257325)|[Link](https://github.com/LirongWu/Homophily-Enhanced-Self-supervision)|
