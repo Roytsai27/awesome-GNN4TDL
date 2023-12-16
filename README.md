@@ -129,5 +129,5 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 ## Knowledge Graph GNNs for TDL
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
-|2023|Enabling tabular deep learning when d>>n with an auxiliary knowledge graph|NeurIPS 2023|[Link](https://arxiv.org/pdf/2306.04766.pdf)||
+|2023|High dimensional, tabular deep learning with an auxiliary knowledge graph|NeurIPS 2023|[Link](https://arxiv.org/pdf/2306.04766.pdf)|[link](https://github.com/snap-stanford/plato)|
 
