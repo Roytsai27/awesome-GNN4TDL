@@ -4,13 +4,13 @@
 
 ## Table of contents
 - [✨ News](#--news)
-- [Graph Neural Networks for Tabular Data Learning](#graph-neural-networks-for-tabular-data-learning)
-- [Homogeneous Instance Graph GNNs for TDL](#homogeneous-instance-graph-gnns-for-tdl)
-- [Homogeneous Feature Graph GNNs for TDL](#homogeneous-feature-graph-gnns-for-tdl)
-- [Bipartite Graph GNNs for TDL](#bipartite-graph-gnns-for-tdl)
-- [Heterogeneous Graph GNNs for TDL](#heterogeneous-graph-gnns-for-tdl)
-- [Hypergraph GNNs for TDL](#hypergraph-gnns-for-tdl)
-- [Knowledge Graph GNNs for TDL](#knowledge-graph-gnns-for-tdl)
+- [Intro: Graph Neural Networks for Tabular Data Learning](#graph-neural-networks-for-tabular-data-learning)
+- [Homogeneous Instance Graphs](#homogeneous-instance-graph-gnns-for-tdl)
+- [Homogeneous Feature Graphs](#homogeneous-feature-graph-gnns-for-tdl)
+- [Bipartite Graph](#bipartite-graph-gnns-for-tdl)
+- [Heterogeneous Graphs](#heterogeneous-graph-gnns-for-tdl)
+- [Hypergraph GNNs](#hypergraph-gnns-for-tdl)
+- [Knowledge Graphs](#knowledge-graph-gnns-for-tdl)
 
 👉 If you notice any errors or have suggestions, feel free to share them with us!
 ## ✨ News
