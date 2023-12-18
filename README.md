@@ -17,7 +17,7 @@
 * [2023-12-16] We have released this repository that collects the resources related to GNNs for tabular data learning (GNN4TDL).
 
 ## Graph Neural Networks for Tabular Data Learning
-![flow2-1](https://github.com/Roytsai27/awesome-GNN4TDL/assets/38278579/5ab868e1-56ce-47e7-9ea9-cb17bc54f952)
+<p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38278579/291000976-5ab868e1-56ce-47e7-9ea9-cb17bc54f952.png" width="65%" height="65%"></p>
 
 The deep learning-based approaches to Tabular Data Learning (TDL), classification and regression, have shown competing performance, compared to their conventional counterparts. However, the latent correlation among data instances and feature values is less modeled in deep neural TDL. Recently, graph neural networks (GNNs), which can enable modeling relations and interactions between different tabular data elements, has received tremendous attention across application domains including TDL. It turns out creating proper graph structures from the input tabular dataset, along with GNN learning, can improve the TDL performance. In this survey, we systematically review the methodologies of designing and applying GNNs for TDL (GNN4TDL). The topics to be covered include: (1) foundations and overview of GNN-based TDL methods; (2) a comprehensive taxonomy of constructing graph structures and representation learning in GNN-based TDL methods; (3) how to apply GNN to various TDL application scenarios and tasks; (4) limitations in current research and future directions.
 
