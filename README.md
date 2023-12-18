@@ -9,7 +9,7 @@
 - [Intro: Graph Neural Networks for Tabular Data Learning](#graph-neural-networks-for-tabular-data-learning)
 - [Homogeneous Instance Graphs](#homogeneous-instance-graph-gnns-for-tdl)
 - [Homogeneous Feature Graphs](#homogeneous-feature-graph-gnns-for-tdl)
-- [Bipartite Graph](#bipartite-graph-gnns-for-tdl)
+- [Bipartite Graphs](#bipartite-graph-gnns-for-tdl)
 - [Heterogeneous Graphs](#heterogeneous-graph-gnns-for-tdl)
 - [Hypergraph GNNs](#hypergraph-gnns-for-tdl)
 - [Knowledge Graphs](#knowledge-graph-gnns-for-tdl)
@@ -18,7 +18,7 @@
 ## ✨ News
 * [2023-12-16] We have released this repository that collects the resources related to GNNs for tabular data learning (GNN4TDL).
 
-## Graph Neural Networks for Tabular Data Learning
+## Intro: Graph Neural Networks for Tabular Data Learning
 <p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38278579/291000976-5ab868e1-56ce-47e7-9ea9-cb17bc54f952.png" width="65%" height="65%"></p>
 
 The deep learning-based approaches to Tabular Data Learning (TDL), classification and regression, have shown competing performance, compared to their conventional counterparts. However, the latent correlation among data instances and feature values is less modeled in deep neural TDL. Recently, graph neural networks (GNNs), which can enable modeling relations and interactions between different tabular data elements, has received tremendous attention across application domains including TDL. It turns out creating proper graph structures from the input tabular dataset, along with GNN learning, can improve the TDL performance. In this survey, we systematically review the methodologies of designing and applying GNNs for TDL (GNN4TDL). The topics to be covered include: (1) foundations and overview of GNN-based TDL methods; (2) a comprehensive taxonomy of constructing graph structures and representation learning in GNN-based TDL methods; (3) how to apply GNN to various TDL application scenarios and tasks; (4) limitations in current research and future directions.
@@ -27,7 +27,7 @@ The deep learning-based approaches to Tabular Data Learning (TDL), classificatio
 
 This survey presents an in-depth exploration into the application of GNNs in tabular data learning. It starts by establishing the fundamental problem statement and introduces various graph types used to represent tabular data. The survey is structured around a detailed GNN-based learning pipeline, encompassing phases like **Graph Formulation**, where tabular elements are converted into graph nodes; **Graph Construction**, focusing on establishing connections within these elements; **Representation Learning**, highlighting how GNNs process these structures to learn data instance features; and **Training Plans**, discussing the integration of auxiliary tasks for enhanced predictive outcomes.
 
-## Homogeneous Instance Graph GNNs for TDL
+## Homogeneous Instance Graphs
 
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
@@ -57,7 +57,7 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 |2020|Missing Data Imputation with Adversarially-trained Graph Convolutional Networks|Neural Networks 2020|[Link](https://arxiv.org/pdf/1905.01907.pdf)|[Link](https://github.com/spindro/GINN)|
 |2019|Learning Discrete Structures for Graph Neural Networks|ICML 2019|[Link](https://arxiv.org/pdf/1903.11960.pdf)|[Link](https://github.com/lucfra/LDS-GNN)|
 
-## Homogeneous Feature Graph GNNs for TDL
+## Homogeneous Feature Graphs
 
 
 |Year|Title|Venue|Paper|Code|
@@ -75,7 +75,7 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 |2019|Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction|CIKM 2019|[Link](https://arxiv.org/pdf/1910.05552.pdf)|[Link](https://github.com/CRIPAC-DIG/Fi_GNN)|
 
 
-## Bipartite Graph GNNs for TDL
+## Bipartite Graphs
 
 
 |Year|Title|Venue|Paper|Code|
@@ -91,7 +91,7 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 |2019|Large-Scale Heterogeneous Feature Embedding|AAAI 2019|[Link](https://ojs.aaai.org/index.php/AAAI/article/view/4276)|[Link](https://github.com/DEEP-PolyU/FeatWalk_AAAI19)|
 
 
-## Heterogeneous Graph GNNs for TDL
+## Heterogeneous Graphs
 
 
 |Year|Title|Venue|Paper|Code|
@@ -121,14 +121,14 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 |2020|Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer|AAAI 2020|[Link](https://arxiv.org/pdf/1906.04716.pdf)|[Link](https://github.com/Google-Health/records-research/tree/master/graph-convolutional-transformer)|
 
 
-## Hypergraph GNNs for TDL
+## Hypergraphs
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
 |2023|HYTREL: Hypergraph-enhanced Tabular Data Representation Learning|NeurIPS 2023|[Link](https://arxiv.org/pdf/2307.08623.pdf)|[Link](https://github.com/awslabs/hypergraph-tabular-lm)|
 |2022|Learning Enhanced Representations for Tabular Data via Neighborhood Propagation|NeurIPS 2022|[Link](https://arxiv.org/pdf/2206.06587.pdf)|[Link](https://github.com/KounianhuaDu/PET)|
 |2022|Hypergraph Contrastive Learning for Electronic Health Records|SDM 2022|[Link](https://doi.org/10.1137/1.9781611977172.15)||
 
-## Knowledge Graph GNNs for TDL
+## Knowledge Graphs
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
 |2023|High dimensional, tabular deep learning with an auxiliary knowledge graph|NeurIPS 2023|[Link](https://arxiv.org/pdf/2306.04766.pdf)|[link](https://github.com/snap-stanford/plato)|
