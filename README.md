@@ -1,6 +1,8 @@
-# Awesome Graph Neural Networks for Tabular Data Learning (GNN4TDL)
-
-
+<div align="center">
+    <h1>Graph Neural Networks for Tabular Data Learning (GNN4TDL)</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
+</div>
 
 ## Table of contents
 - [✨ News](#--news)
