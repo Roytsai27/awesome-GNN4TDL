@@ -15,6 +15,19 @@
 - [Knowledge Graphs](#knowledge-graph-gnns-for-tdl)
 
 👉 If you notice any errors or have suggestions, feel free to share them with us!
+
+⭐️ If you find this resource helpful, please consider to star this repository and cite our survey paper:
+```
+@misc{li2024graph,
+      title={Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions}, 
+      author={Cheng-Te Li and Yu-Che Tsai and Chih-Yao Chen and Jay Chiehen Liao},
+      year={2024},
+      eprint={2401.02143},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 ## ✨ News
 * [2023-12-16] We have released this repository that collects the resources related to GNNs for tabular data learning (GNN4TDL).
 
