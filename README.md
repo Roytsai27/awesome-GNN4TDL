@@ -16,7 +16,7 @@
 
 👉 If you notice any errors or have suggestions, feel free to share them with us!
 
-⭐️ If you find this resource helpful, please consider to star this repository and cite our survey paper:
+⭐️ If you find this resource helpful, please consider to star this repository and cite our [survey paper](https://arxiv.org/abs/2401.02143):
 ```
 @misc{li2024graph,
       title={Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions}, 
