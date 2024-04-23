@@ -75,10 +75,10 @@ This survey presents an in-depth exploration into the application of GNNs in tab
 
 |Year|Title|Venue|Paper|Code|
 | :- | :- | :- | :- | :- |
+|2024|Graph Neural Network Contextual Embedding for Deep Learning on Tabular Data|Neural Networks 2024|[Link](https://doi.org/10.1016/j.neunet.2024.106180)|[Link](https://github.com/MatteoSalvatori/INCE)|
 |2023|T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction|AAAI 2023|[Link](https://arxiv.org/pdf/2211.16887.pdf)|[Link](https://github.com/jyansir/t2g-former)|
 |2023|Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks|IEEE TKDE 2023|[Link](https://ieeexplore.ieee.org/document/10054100)||
 |2023|Causality-based CTR Prediction using Graph Neural Networks|Information Processing & Management 2023|[Link](https://doi.org/10.1016/j.ipm.2022.103137)||
-|2023|Graph Neural Network Contextual Embedding for Deep Learning on Tabular Data|Arxiv 2023|[Link](https://arxiv.org/pdf/2303.06455.pdf)|[Link](https://github.com/MatteoSalvatori/INCE)|
 |2023|FT-GAT: Graph Neural Network for Predicting Spontaneous Breathing Trial Success in Patients with Mechanical Ventilation|Computer Methods and Programs in Biomedicine 2023|[Link](https://pubmed.ncbi.nlm.nih.gov/37336152/)||
 |2022|Table2Graph: Transforming Tabular Data to Unifed Weighted Graph|IJCAI 2022|[Link](https://www.ijcai.org/proceedings/2022/0336.pdf)||
 |2022|Local Contrastive Feature Learning for Tabular Data|CIKM 2022|[Link](https://arxiv.org/pdf/2211.10549.pdf)||
