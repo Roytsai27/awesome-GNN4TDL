@@ -18,13 +18,12 @@
 
 ⭐️ If you find this resource helpful, please consider to star this repository and cite our [survey paper](https://arxiv.org/abs/2401.02143):
 ```
-@misc{li2024graph,
-      title={Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions}, 
-      author={Cheng-Te Li and Yu-Che Tsai and Chih-Yao Chen and Jay Chiehen Liao},
-      year={2024},
-      eprint={2401.02143},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{li2024graph,
+  title={Graph neural networks for tabular data learning: A survey with taxonomy and directions},
+  author={Li, Cheng-Te and Tsai, Yu-Che and Chen, Chih-Yao and Liao, Jay Chiehen},
+  journal={ACM Computing Surveys},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 
